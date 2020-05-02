@@ -3,6 +3,9 @@
 <br></br>York University
 
 
+![teaser](https://user-images.githubusercontent.com/37669469/80855751-b8bdca80-8c11-11ea-8b72-6669ce010c20.jpg)
+
+
 Reference code for the paper [Interactive White Balancing for Camera-Rendered Images]() Mahmoud Afifi and Michael S. Brown. In Color and Imaging Conference (CIC), 2020. If you use this code, please cite our paper:
 ```
 @inproceedings{afifi2020interactive,
