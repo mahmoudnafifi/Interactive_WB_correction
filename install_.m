@@ -1,5 +1,5 @@
 %%
-% Copyright (c) 2019-present, Mahmoud Afifi
+% Copyright (c) 2020-present, Mahmoud Afifi
 % 
 % Please, cite the following paper if you use this code:
 %

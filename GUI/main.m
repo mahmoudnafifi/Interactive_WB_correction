@@ -1,5 +1,5 @@
 %%
-% Copyright (c) 2019-present, Mahmoud Afifi
+% Copyright (c) 2020-present, Mahmoud Afifi
 % 
 % Please, cite the following paper if you use this code:
 %
@@ -8,6 +8,7 @@
 %
 % Email: mafifi@eecs.yorku.ca | m.3afifi@gmail.com
 %%
+
 function varargout = main(varargin)
 
 gui_Singleton = 1;

@@ -11,25 +11,17 @@ function f = calc_m_angular_error(source, target,color_chart_area)
 %Output:
 %   -f: the mean angular error between image A and image B.
 %
-% Copyright (c) 2018 Mahmoud Afifi
-% Lassonde School of Engineering
-% York University
-% mafifi@eecs.yorku.ca
+%%
+% Copyright (c) 2020-present, Mahmoud Afifi
+% 
+% Please, cite the following paper if you use this code:
 %
-% Permission is hereby granted, free of charge, to any person obtaining 
-% a copy of this software and associated documentation files (the 
-% "Software"), to deal in the Software with restriction for its use for 
-% research purpose only, subject to the following conditions:
+% Mahmoud Afifi and Michael S. Brown. Interactive White Balancing for
+% Camera-Rendered Images. In Color and Imaging Conference (CIC), 2020.
 %
-% The above copyright notice and this permission notice shall be included
-% in all copies or substantial portions of the Software.
-%
-% The Software is provided "as is", without warranty of any kind.
-%
-% Please cite the following work if this program is used:
-% Mahmoud Afifi, Brian Price, Scott Cohen, and Michael S. Brown, "White Balance Correction for sRGB Rendered Images", ECCV 2018.
-%
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Email: mafifi@eecs.yorku.ca | m.3afifi@gmail.com
+%%
+
 if nargin==2
     color_chart_area=0;
 end
