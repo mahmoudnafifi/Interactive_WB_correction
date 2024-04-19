@@ -29,6 +29,8 @@ White balance (WB) is one of the first photo-finishing steps used to render a ca
 
 Check `generateModel.m` to re-generate our model. 
 
+Before running other codes, run `install_.m`.
+
 The code in `demo.m` and `demo_images.m` perform auto WB using gray-world initial estimation with our rectification function.
 
 Run `GUI/main.m` to interactively manipulate the WB of your photos. 
